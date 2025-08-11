@@ -7,7 +7,7 @@ Move around the screen and avoid the creeps!
 The longer you survive, the higher your score.
 
 ## 🕹 Play the Game
-**[▶ Play Now on GitHub Pages](https://IanChristopherTandog.github.io/DodgeTheCreeps)**
+**[▶ Play Now the Demo](https://IanChristopherTandog.github.io/DodgeTheCreeps)**
 
 ## 📸 Screenshots
 *(Add screenshots here if you have them)*
