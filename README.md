@@ -10,7 +10,9 @@ The longer you survive, the higher your score.
 **[▶ Play Now the Demo](https://IanChristopherTandog.github.io/DodgeTheCreeps)**
 
 ## 📸 Screenshots
-*(Will add Screenshots here)*
+screenshots/home.png
+screenshots/start.png
+screenshots/gameover.png
 
 ## 🛠 Built With
 - Godot Engine 4.x
